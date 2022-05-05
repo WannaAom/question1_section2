@@ -1,0 +1,20 @@
+.boxint{
+    width: 200px;
+    height: 100vh;
+    /* background-color: aqua; */
+    border-right-style: inset;
+    border-right-color: black;
+    border-right-width: 3px;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+  }
+.text{
+    margin-left: 870px;
+    width: 300px;
+    height: 100vh;
+    border-left-style: inset;
+    border-left-color: black;
+    border-left-width: 3px;
+}
